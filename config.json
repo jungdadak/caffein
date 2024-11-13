@@ -1,0 +1,15 @@
+{
+	"results_folder": "results",
+	"processed_videos_folder": "processed_videos",
+	"uploaded_videos_folder": "uploaded_videos",
+	"uploaded_sami_folder": "uploaded_sami",
+	"sami_processed_results_folder": "sami_processed_results",
+	"merged_csv_folder": "merged_csv",
+	"grouped_results_folder": "grouped_results",
+	"utf8_bom_results_folder": "utf8_bom_results",
+	"graphs_folder": "graphs",
+	"model_paths": {
+		"plate_model": "models/plate_model.pt",
+		"color_model": "models/color_model.pt"
+	}
+}
