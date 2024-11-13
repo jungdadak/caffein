@@ -1,8 +1,0 @@
-fastapi==0.115.5
-uvicorn[standard]==0.22.0
-motor==3.6.0
-torch==2.0.1
-ultralytics==8.0.117
-easyocr==1.7.1
-tqdm==4.66.1
-python-dotenv==1.0.0
